@@ -1,2 +1,2 @@
 # Simple-python-IDE
-# using kivy framework
+using kivy framework
